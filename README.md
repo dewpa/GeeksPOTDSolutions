@@ -14,20 +14,20 @@ The repository is organized as follows:
 
 DailySolutions/: Contains folders for each month, with subfolders for each day. Each daily folder includes the problem statement and solution code.
 
-	|	DailySolutions/                   |
-	|	├── 2024/                         |
-	|	│   ├── May/                      |
-	|	│   │   ├── 23/                   |
-	|	│   │   │   ├── problem.md 	      |
-	|	│   │   │   ├── solution.java     |
-	|	│   │   │   └── solution.cpp      |
-	|	│   │   ├── 24/                   |
-	|	│   │   │   ├── problem.md        |
-	|	│   │   │   ├── solution.java     |
-	|	│   │   │   └── solution.cpp      |
-	|	│   │   └── ...                   |
-	|	│   └── ...                       |
-	|	└── ...                           |
+	|	DailySolutions/              	|	    
+	|	├── 2024/                    	|	    
+	|	│   ├── May/                 	|	    
+	|	│   │   ├── 23/              	|	    
+	|	│   │   │   ├── problem.md 	 	|	    
+	|	│   │   │   ├── solution.java	|	    
+	|	│   │   │   └── solution.cpp 	|	    
+	|	│   │   ├── 24/              	|	    
+	|	│   │   │   ├── problem.md   	|	    
+	|	│   │   │   ├── solution.java	|	    
+	|	│   │   │   └── solution.cpp 	|	    
+	|	│   │   └── ...              	|	    
+	|	│   └── ...                  	|	    
+	|	└── ...                      	|	    
 
 
 How to Use
