@@ -1,6 +1,5 @@
 #### C++
 
-```
 class Solution {
 public:
     int kPalindrome(string str, int n, int k) {
@@ -32,5 +31,4 @@ public:
     }
 };
 
-```
 

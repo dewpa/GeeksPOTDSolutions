@@ -19,12 +19,12 @@ DailySolutions/: Contains folders for each month, with subfolders for each day. 
 	|	│   ├── May/                      |
 	|	│   │   ├── 23/                   |
 	|	│   │   │   ├── problem.md        |
-	|	│   │   │   ├── solution.java     |
-	|	│   │   │   └── solution.cpp      |
+	|	│   │   │   ├── solution.cpp     |
+	|	│   │   │   └── solution.java      |
 	|	│   │   ├── 24/                   |
 	|	│   │   │   ├── problem.md        |
-	|	│   │   │   ├── solution.java     |
-	|	│   │   │   └── solution.cpp      |
+	|	│   │   │   ├── solution.cpp     |
+	|	│   │   │   └── solution.java      |
 	|	│   │   └── ...                   |
 	|	│   └── ...                       |
 	|	└── ...                           |

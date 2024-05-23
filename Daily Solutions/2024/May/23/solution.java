@@ -1,7 +1,5 @@
 #### Java
 
-```
-
 class Solution {
     
     public int kPalindrome(String str, int n, int k) {
@@ -35,5 +33,3 @@ class Solution {
         
     }
 }
-		
-```
