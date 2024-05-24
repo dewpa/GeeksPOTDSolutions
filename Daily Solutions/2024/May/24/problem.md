@@ -18,9 +18,9 @@ Expected Space Complexity: O( sum(arr))
 
 ### Constraints
 
-1 <= n <= 500
-0 <= d  <= 25000
-0 <= arr[i] <= 50
+1 <= n <= 500 \
+0 <= d  <= 25000 \
+0 <= arr[i] <= 50 \
 
 **Examples**
 
