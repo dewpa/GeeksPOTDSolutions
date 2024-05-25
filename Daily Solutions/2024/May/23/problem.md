@@ -12,7 +12,7 @@ You do not need to read input or print anything. Your task is to complete the fu
 
 ### Time and Auxiliary Space Complexity
 
-Expected Time Complexity: O(n*n)
+Expected Time Complexity: O(n*n) \
 Expected Auxiliary Space: O(n*n)
 
 ### Constraints

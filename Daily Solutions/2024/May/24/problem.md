@@ -13,7 +13,7 @@ You don't have to read input or print anything. Your task is to complete the fun
 
 ### Time and Auxiliary Space Complexity
 
-Expected Time Complexity: O( n*sum(arr))
+Expected Time Complexity: O( n*sum(arr)) \
 Expected Space Complexity: O( sum(arr))
 
 ### Constraints
