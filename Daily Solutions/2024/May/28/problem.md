@@ -4,9 +4,9 @@
 
 ### Problem Description
 
-Given an array cost[] of positive integers of size n and an integer w, where cost[i] represents the cost of an i kg packet of oranges, the task is to find the minimum cost to buy exactly w kg of oranges. The cost array has a 1-based indexing. If buying exactly w kg of oranges is impossible, then return -1.
-Note: \
-1. cost[i] = -1 means that i kg packet of orange is unavailable. \
+Given an array cost[] of positive integers of size n and an integer w, where cost[i] represents the cost of an i kg packet of oranges, the task is to find the minimum cost to buy exactly w kg of oranges. The cost array has a 1-based indexing. If buying exactly w kg of oranges is impossible, then return -1. \
+Note: 
+1. cost[i] = -1 means that i kg packet of orange is unavailable. 
 2. It may be assumed that there is an infinite supply of all available packet types. 
 
 ### Your Task
