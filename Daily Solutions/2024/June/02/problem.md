@@ -21,7 +21,7 @@ Expected Auxiliary Space: O(l), where l is only used for output-specific require
 
 ### Constraints
 
-1 ≤ q ≤ 105
+1 ≤ q ≤ 10^5
 
 **Examples**
 
