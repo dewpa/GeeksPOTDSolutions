@@ -17,7 +17,7 @@ Expected Space Complexity: O(n)
 
 ### Constraints
 
-2 <= n <= 105
+2 <= n <= 10^5
 
 **Examples**
 
