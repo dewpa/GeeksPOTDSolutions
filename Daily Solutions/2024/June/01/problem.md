@@ -24,7 +24,7 @@ Expected Space Complexity: O(1)
 
 ### Constraints
 
-1 ≤ |s| ≤ 105
+1 ≤ |s| ≤ 10^5
 
 **Examples**
 
